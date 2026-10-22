@@ -552,7 +552,7 @@
       icon.className = 'champion-icon';
 
       const trophy = document.createElement('img');
-      trophy.src = 'assets/ardentri-trophy.png';
+      trophy.src = 'ardentri-trophy.png';
       trophy.alt = 'Tournament Trophy';
       trophy.className = 'champion-trophy';
       icon.appendChild(trophy);
